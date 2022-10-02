@@ -41,3 +41,4 @@ myblog.log*
 .idea
 .vscode
 logs
+.env
