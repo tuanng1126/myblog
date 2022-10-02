@@ -37,7 +37,7 @@ nosetests.xml
 
 venv
 app.db
-microblog.log*
+myblog.log*
 .idea
 .vscode
 logs
